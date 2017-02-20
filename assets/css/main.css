@@ -2345,7 +2345,7 @@ button:active,
 .item {
     margin-left: auto;
     margin-right: auto;
-    display:inline-block;
+
     margin-bottom: 5px;
 }
 
@@ -2382,6 +2382,7 @@ button:active,
 }
 
 .item header p {
+    vertical-align: middle;
     margin-left: 40px;
     margin-right: 40px;
     color: black;
